@@ -1,0 +1,30 @@
+.createuser{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    display: flex;
+    padding: 10px;
+    background-color: beige;
+    border-radius: 30px;
+    padding-left: 100px;
+    position: absolute;
+    justify-content: center;
+}
+button{
+    background-color: wheat;
+    font-size: larger;
+}
+.may{
+    padding:10px
+}
+.jay{
+    padding: 10px;
+}
+.yay{
+    padding: 10px;
+}
+.joy{
+    padding: 10px;
+}
